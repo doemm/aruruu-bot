@@ -2,11 +2,12 @@
 name = "aruruu-bot"
 version = "0.1.0"
 description = ""
-authors = ["Jinwei Wang <0jinwei0.wang@gmail.com>"]
+authors = ["domsupamoe"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 python-telegram-bot = "^12.8"
+requests = "^2.24.0"
 
 [tool.poetry.dev-dependencies]
 

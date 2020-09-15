@@ -1,5 +1,5 @@
 # Privacy files
-TOKEN
+tokens.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
